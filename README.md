@@ -37,4 +37,3 @@ The chatbot can be further customized to fit your use-case by modifying the code
 
 Please open an issues on the repository if you find any bugs or if you would like to contribute.
 
-Code and documentation Copyright 2023 [Pawan Kumar](https://www.codepur.dev). Code released under the [Apache License](./LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
